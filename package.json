@@ -1,0 +1,9 @@
+{
+  "name": "gcbs-bot-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.56.0"
+  }
+}
